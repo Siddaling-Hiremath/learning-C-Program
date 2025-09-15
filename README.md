@@ -15,7 +15,7 @@
 ### 🛠️ Tech Stack
 - **Languages:** C, C++, Java (learning), Python (learning)  
 - **Focus:** DSA, Core Programming, Projects  
-- **Tools:** VS Code, Git & GitHub  
+- **Tools:** VS Code, Git & GitHub.  
 
 ---
 
