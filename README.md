@@ -1,35 +1,30 @@
-# 👋 Hi, I'm Siddaling Hiremath  
+# 🚀 Learning C Programs  
 
-💻 **Aspiring Software Developer** | MCA Aspirant | Lifelong Learner  
-
----
-
-### 🚀 About Me
-- 🎯 Passionate about **Coding, DSA, and Problem Solving**  
-- 📚 Currently learning **C, C++ (DSA)** and starting **Java + Python**  
-- 🎓 Preparing for **Top MCA Colleges** & aiming for **FAANG-level roles**  
-- ⚡ Fun fact: I love building things that make life easier  
+A collection of basic **C programs** that I am writing while learning and practicing C programming.  
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** C, C++, Java (learning), Python (learning)  
-- **Focus:** DSA, Core Programming, Projects  
-- **Tools:** VS Code, Git & GitHub.  
+## 📚 Topics Covered  
+- ⏳ **Arrays** – sum, average, largest element – coming soon... 
+- ⏳ **Strings** – vowel counter, length, palindrome check – coming soon...  
+- ⏳ **Functions** – parameter passing, return values – coming soon... 
+- ⏳ **Loops & Conditionals** – coming soon... 
+- ⏳ **Pointers** – and etc.. coming soon...  
 
 ---
 
-### 📈 My Goals
-- ✅ Master **C & C++ + DSA**
-- ✅ Build **Projects** & push regularly on GitHub  
-- 🎯 Get into a **Top MCA College**  
-- 🎯 Land a **High-Paying Job** at Product-Based Companies  
+## 🛠️ Tech Used  
+- **Language:** C  
+- **Compiler:** GCC / MinGW  
+- **IDE/Editor:** VS Code  
 
 ---
 
-### 📫 Connect With Me  
-- ✨ GitHub: [Siddaling-Hiremath](https://github.com/Siddaling-Hiremath)   
+## ▶️ How to Run  
+1. **Clone this repo**  
+   ```bash
+   git clone https://github.com/Siddaling-Hiremath/learning-C-Program.git
 
----
+2. Open in VS Code (or any editor)
 
-⭐ **Fun fact:** This is just the beginning — check back later to see my projects!
+3. Compile & run.
