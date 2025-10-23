@@ -5,11 +5,11 @@ A collection of basic **C programs** that I am writing while learning and practi
 ---
 
 ## 📚 Topics Covered  
-- ⏳ **Arrays** – sum, average, largest element – coming soon... 
-- ⏳ **Strings** – vowel counter, length, palindrome check – coming soon...  
-- ⏳ **Functions** – parameter passing, return values – coming soon... 
+- ✅ **Arrays** 
+- ⏳ **Strings** 
+- ⏳ **Functions**  
 - ✅ **Loops & Conditionals**
-- ⏳ **Pointers** – and etc.. coming soon...  
+- ⏳ **Pointers** – and etc..
 
 ---
 
